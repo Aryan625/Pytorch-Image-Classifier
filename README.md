@@ -6,8 +6,9 @@
 - Evaluated the network and acquired the accuracy of about 80% on the test data as well as obtained accuracy for each class also.
 
 Overall accuracy and accuracy for each class as well as prediction on some test images are shown below:
-![Accuracy Image](Accuracy image.jpg)
-![Prediction Image](Prediction Image.jpg)
+
+![Accuracy Image](Accuracy_Image.jpg)
+![Prediction Image](Prediction_Image.jpg)
 
 
-The colab notebook for this project can be found [here] or in this [google drive link].
+The colab notebook for this project can be found ![here](Pytorch_Image_Classifier.ipynb).
